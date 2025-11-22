@@ -31,16 +31,20 @@ int main(){
 
 
 
-    int target;        //compare between target num and avg of array.
-    cout<<"enter the number to be compare: "<<endl;
-    cin>>target;
+//     int target;        //compare between target num and avg of array.
+//     cout<<"enter the number to be compare: "<<endl;
+//     cin>>target;
     
-    if (avg > target)
-    {
-     cout<<"average is greater than target..";
-     }
-    else{
-    cout<<"avg is smaller than target...";
-    }
+//     if (avg > target)
+//     {
+//      cout<<"average is greater than target..";
+//      }
+//     else{
+//     cout<<"avg is smaller than target...";
+//     }
      
+// }
+
+if(arr[sz]>avg){
+    
 }
